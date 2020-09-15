@@ -16,6 +16,12 @@ p.small {
     font-size: 16px;
 }
 
+tr {
+   line-height: 75px;
+   min-height: 75px;
+   height: 75px;
+}
+
 a,
 a:hover,
 a:focus,
